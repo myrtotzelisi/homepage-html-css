@@ -1,4 +1,4 @@
-# Homepage HTML & CSS
+# Lucky Shrub - Homepage HTML & CSS
 
 This project showcases a simple, yet elegant homepage. It represents my first try to create a homepage using *only* HTML and CSS. It was part of the "HTML and CSS in Depth" course of the Meta Front-End Developer certificate.
 
